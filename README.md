@@ -2,7 +2,7 @@
 
 
 <h1 align="center">
-<b> 『𓂀 ℂ𝔹𝔸 𝕌𝕊𝔼ℝ𝔹𝕆𝕋 𓂀』 </b>
+<b> 『ℂ𝔹𝔸 𝕌𝕊𝔼ℝ𝔹𝕆𝕋』 </b>
 </h1>
 
 <h6 align="center">
