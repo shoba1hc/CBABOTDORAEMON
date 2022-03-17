@@ -63,27 +63,20 @@
 
 ## Repl
 
-[![Run on Repl.it](https://replit.com/badge/github/LEGEND-AI/LEGENDBOT)](https://replit.com/@KrishnaJaiswal1/LEGENDBOT#main.py)
+[![Run on Repl.it](https://replit.com/badge/github/BHAGWANUSERBOT/CBABOT)]( 🥺🥺🥺🥺🥺)
 
 - To Get Details Of StringSession Follow Step: 
-- Go To Telegram And Search @Legend_SessionGeneratorBot
+- Go To Telegram And Search (SOON BOT COMING )
 - Click Start
-- Send Ur Phone Number To @Legend_SessionGeneratorBot
+- Send Ur Phone Number To ( SOON BOT COMING )
 - U Received Code From Telegram Like This=278291
 - Copy Ur Code
-- Send The Code To @Legend_SessionGeneratorBot with Each Space
+- Send The Code To ( SOON BOT COMING) with Each Space
 - Check SAVED MESSAGE
 
 ### Terminal
 - Open the terminal.
 - Paste this code.
-
-`pkg install python wget -y && pip install telethon && wget https://raw.githubusercontent.com/ITS-LEGENDBOT/LEGENDBOT/master/LegendString.py && python3 LegendString.py`
-- Fill API ID, API HASH, Phone number (with country code).
-- Paste the OTP received on Telegram.
-- If You have Enabled 2-Step Verification then fill your password.
-- Note that Termux Doesn't show passwords when filled. Just paste your password and hit enter.
-- Your LegendBot Session Will be saved in your Telegram Saved Message.
 
 
 
