@@ -10,7 +10,7 @@
 </h6>
 
 
-[![](https://img.shields.io/badge/LegendBot-v1.0-blue)](#)
+[![](https://img.shields.io/badge/CBA-Bot-v1.0-blue)](#)
 [![Stars](https://img.shields.io/github/stars/BHAGWANUSERBOT/CBABOT?style=flat-square&color=yellow)](https://github.com/BHAGWANUSERBOT/CBABOT/stargazers)
 [![Forks](https://img.shields.io/github/forks/BHAGWANUSERBOT/CBABOT?style=flat-square&color=orange)](https://github.com/BHAGWANUSERBOT/CBABOT/fork)
 [![Size](https://img.shields.io/github/repo-size/BHAGWANUSERBOT/CBABOT?style=flat-square&color=green)](https://github.com/BHAGWANUSERBOT/CBABOT/)   
@@ -25,7 +25,7 @@
 
 ## Status Of Bot 
 <p align="left">
-    <a href="https://github.com/BHAGWANUSERBOT/CBABOT/network/members"><img src="https://img.shields.io/github/forks/LEGEND-AI/LEGENDBOT?label=Forks&logoColor=Black&style=social"></a><p align="left"><a href="https://github.com/LEGEND-AI/LEGENDBOT/stargazers"><img src="https://img.shields.io/github/stars/LEGEND-AI/LEGENDBOT?logoColor=Blue&style=social"></a><p align="left"><a href="https://github.com/LEGEND-AI/LEGENDBOT"></a><p align="left"><a href="https://github.com/LEGEND-AI/LEGENDBOT?"></a>
+    <a href="https://github.com/BHAGWANUSERBOT/CBABOT/network/members"><img src="https://img.shields.io/github/forks/LEGEND-AI/LEGENDBOT?label=Forks&logoColor=Black&style=social"></a><p align="left"><a href="https://github.com/LEGEND-AI/LEGENDBOT/stargazers"><img src="https://img.shields.io/github/stars/LEGEND-AI/LEGENDBOT?logoColor=Blue&style=social"></a><p align="left"><a href="https://github.com/BHAGWANUSERBOT/CBABOT"></a><p align="left"><a href="https://github.com/BHAGWANUSERBOT/CBABOT?"></a>
 
 ------
 
