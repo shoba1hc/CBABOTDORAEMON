@@ -40,6 +40,8 @@
 - [![YouTube Video Views](https://img.shields.io/youtube/views/CH_KO1wim2o&t?label=Tutorial+•+Heroku+•&style=social)](#nothing)
 
 
+  PULGING FOR Credit - LEGEND BOT
+
 <h3> Dєρℓογ το нєяοκυ </h3>
 
 - Click Here :- [main repo](https://github.com/BHAGWANUSERBOT/CBABOT)
