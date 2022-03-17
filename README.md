@@ -25,7 +25,7 @@
 
 ## Status Of Bot 
 <p align="left">
-    <a href="https://github.com/BHAGWANUSERBOT/CBABOT/network/members"><img src="https://img.shields.io/github/forks/LEGEND-AI/LEGENDBOT?label=Forks&logoColor=Black&style=social"></a><p align="left"><a href="https://github.com/LEGEND-AI/LEGENDBOT/stargazers"><img src="https://img.shields.io/github/stars/LEGEND-AI/LEGENDBOT?logoColor=Blue&style=social"></a><p align="left"><a href="https://github.com/BHAGWANUSERBOT/CBABOT"></a><p align="left"><a href="https://github.com/BHAGWANUSERBOT/CBABOT?"></a>
+    <a href="https://github.com/BHAGWANUSERBOT/CBABOT/network/members"><img src="https://img.shields.io/github/forks/BHAGWANUSERBOT/CBABOT?label=Forks&logoColor=Black&style=social"></a><p align="left"><a href="https://github.com/BHAGWANUSERBOT/CBABOT/stargazers"><img src="https://img.shields.io/github/stars/LEGEND-AI/LEGENDBOT?logoColor=Blue&style=social"></a><p align="left"><a href="https://github.com/BHAGWANUSERBOT/CBABOT"></a><p align="left"><a href="https://github.com/BHAGWANUSERBOT/CBABOT?"></a>
 
 ------
 
