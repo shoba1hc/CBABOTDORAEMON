@@ -1,7 +1,7 @@
 {
-  "name": "LEGENDBOT",
-  "description": "Made with Love And By Python Language With Hardwork... By @LegendBoy_XD❤ ",
-  "logo": "https://telegra.ph/file/7aca8e594e14f51f0ce14.jpg",
+  "name": "CBA-USERBOT",
+  "description": "Made with Love And By Python Language With Hardwork... By @CBA_USERBOT❤ ",
+  "logo": "https://telegra.ph/file/7a43d71e592d9477a79a2.jpg",
   "keywords": [
     "telegram",
     "userbot",
@@ -10,9 +10,9 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/LEGEND-AI/LEGENDBOT/",
-  "website": "https://github.com/LEGEND-AI/LEGENDBOT/",
-  "success_url": "https://t.me/Legend_K_Userbot",
+  "repository": "https://github.com/BHAGWANUSERBOT/CBABOT/",
+  "website": "https://github.com/BHAGWANUSERBOT/CBABOT/",
+  "success_url": "https://t.me/CBA_Userbot",
   "env": {
     "ENV": {
       "description": "Set this to ANYTHING will enable heroku.",
@@ -31,7 +31,7 @@
       "value": ""
     },
     "LEGEND_STRING": {
-      "description": "Get this value by running https://replit.com/@KrishnaJaiswal1/LEGENDBOT#main.py",
+      "description": "Get this value by running season string ",
       "value": ""
     },
     "BOT_TOKEN": {
