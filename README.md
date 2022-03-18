@@ -39,8 +39,7 @@
 - [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCvp8PY25PTRhFDZjLv3sVfg?style=social)](#nothing)
 - [![YouTube Video Views](https://img.shields.io/youtube/views/CH_KO1wim2o&t?label=Tutorial+•+Heroku+•&style=social)](#nothing)
 
-
-  PULGING FOR Credit - LEGEND BOT
+   
 
 <h3> Dєρℓογ το нєяοκυ </h3>
 
@@ -65,7 +64,7 @@
 
 ## Repl
 
-[![Run on Repl.it](https://replit.com/badge/github/BHAGWANUSERBOT/CBABOT)]( 🥺🥺🥺🥺🥺)
+[![Run on Repl.it](https://replit.com/badge/github/BHAGWANUSERBOT/CBABOT)]( https://replit.com/@SARKARHACK/CBA-SEASONSTRING#main.py)
 
 - To Get Details Of StringSession Follow Step: 
 - Go To Telegram And Search (SOON BOT COMING )
