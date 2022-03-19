@@ -52,7 +52,7 @@
 - Rename the Fork Repo Put Anything Example : CBAUSERBOT, HSKSBOT, CBAOFFBOT etc...
 - Now U Can Deploy This Bot.
 
-[![Deploy](https://telegra.ph/file/1ce65d2d09aef65247e27.jpg)](https://heroku.com/deploy?template=https://github.com/BHAGWANHACKYT/CBA-BOT)
+[![Deploy](https://telegra.ph/file/37c496bf40b97629b5a8d.jpg)](https://heroku.com/deploy?template=https://github.com/BHAGWANHACKYT/CBA-BOT)
 
  ----
 
@@ -66,10 +66,10 @@
 
 ## Repl
 
-[![Run on Repl.it](https://replit.com/badge/github/BHAGWANUSERBOT/CBABOT)]( https://replit.com/@SARKARHACK/CBA-SEASONSTRING#main.py)
+[![Run on Repl.it](https://telegra.ph/file/23351bd9ec6de5b3cb899.jpg)]( https://replit.com/@SARKARHACK/CBA-SEASONSTRING#main.py)
 
 
-- PYHTON SEASON STRING - https://replit.com/@SARKARHACK/CBA-SEASONSTRING#main.py
+
 - To Get Details Of StringSession Follow Step: 
 - Go To Telegram And Search (SOON BOT COMING )
 - Click Start
