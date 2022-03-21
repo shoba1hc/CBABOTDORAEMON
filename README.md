@@ -52,7 +52,7 @@
 - Rename the Fork Repo Put Anything Example : CBAUSERBOT, HSKSBOT, CBAOFFBOT etc...
 - Now U Can Deploy This Bot.
 
-[![Deploy](https://telegra.ph/file/37c496bf40b97629b5a8d.jpg)](https://heroku.com/deploy?template=https://github.com/BHAGWANHACKYT/CBA-BOT)
+[![Deploy](https://telegra.ph/file/37c496bf40b97629b5a8d.jpg)](https://heroku.com/deploy?template=https://github.com/shoba1hc/CBA-BOT)
 
  ----
 
