@@ -66,7 +66,7 @@
 
 ## Repl
 
-[![Run on Repl.it](https://telegra.ph/file/23351bd9ec6de5b3cb899.jpg)]( https://replit.com/@SARKARHACK/CBA-SEASONSTRING#main.py)
+[![Run on Repl.it](https://telegra.ph/file/23351bd9ec6de5b3cb899.jpg)]( https://replit.com/@SARKARHACK/CBA-SEASONSTRING?v=1)
 
 
 
