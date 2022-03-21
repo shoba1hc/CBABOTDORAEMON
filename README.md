@@ -46,7 +46,7 @@
 - 𝙶𝚎𝚝 𝙰𝚕𝚕 𝚃𝚑𝚎 𝙽𝚎𝚌𝚎𝚜𝚜𝚊𝚛𝚢 𝚅𝚊𝚛𝚒𝚊𝚋𝚕𝚎𝚜 𝙰𝚗𝚍 𝙳𝚎𝚙𝚕𝚘𝚢 𝚃𝚘 Heroku.
   
 
-- Click Here :- [main repo](https://github.com/BHAGWANUSERBOT/CBABOT)
+- Click Here :- [main repo](https://github.com/shoba1hc/CBABOT)
 - Fork The Main Repo.
 - Go to Setting Of Repo.
 - Rename the Fork Repo Put Anything Example : CBAUSERBOT, HSKSBOT, CBAOFFBOT etc...
